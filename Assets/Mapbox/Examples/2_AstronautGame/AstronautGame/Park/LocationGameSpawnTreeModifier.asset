@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420705c61d1b6435c8aa7b1cbd0ce80a, type: 3}
+  m_Name: LocationGameSpawnTreeModifier
+  m_EditorClassIdentifier: 
+  Active: 1
+  _spawnRateInSquareMeters: 20
+  _maxSpawn: 100
+  _prefabs:
+  - {fileID: 919132149155446097, guid: 69bc1a3591d1afe44bcae268767321c5, type: 3}
+  - {fileID: 919132149155446097, guid: 00d599224a60fbe458c6ccf905d1600f, type: 3}
+  - {fileID: 919132149155446097, guid: 1a4289e652219c24b810c58d53e255cf, type: 3}
+  - {fileID: 919132149155446097, guid: ffb041d814d546a44985553679e6cf22, type: 3}
+  _layerMask:
+    serializedVersion: 2
+    m_Bits: 65335
+  _scaleDownWithWorld: 1
+  _randomizeScale: 1
+  _randomizeRotation: 0

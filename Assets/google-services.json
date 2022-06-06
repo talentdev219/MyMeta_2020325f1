@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "846419053055",
+    "project_id": "mymeta-78aa8",
+    "storage_bucket": "mymeta-78aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846419053055:android:1a988a4f6816bce83cffca",
+        "android_client_info": {
+          "package_name": "com.PlayMyMeta.MyMeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846419053055-8lucu6ge1jrq76k19soqd3nev47m0g8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVI1_Fx7JHz0-c0WGihpZk1Sh_wRJY4mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846419053055-8lucu6ge1jrq76k19soqd3nev47m0g8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846419053055-1csdk61u7j81iug4ep665s4r680j5m65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.PlayMyMeta.MyMeta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
